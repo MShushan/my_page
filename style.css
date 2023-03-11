@@ -1,0 +1,217 @@
+.clear{
+    clear: both;
+  }
+  .start{
+   height: 35px;
+   background-color: black;
+   padding-top: -10px;
+   
+  }
+  .start p{
+    color:white;
+    text-align: center;
+    padding-top: 6px;
+    font-size: 12px;
+    font-family: sans-serif;
+  }
+  .start p span{
+    font-size: 18px;
+  }
+
+  .header {
+    height: 80px;
+    background-color: white;
+    border: 1px solid rgb(172, 170, 170);
+   
+  }
+  .header img{
+    width: 70px;
+    height: 60px ;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+    padding-left: 15PX;
+
+    
+  }
+  
+  
+
+.nav{
+    float: left;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.nav ul li{
+    float: left;
+    display: block;
+    padding: 17px ;
+    color: white;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+
+}
+.nav ul li a {
+  text-decoration: none;
+  color: rgb(23, 22, 22);
+  letter-spacing: 0.5px;
+
+}
+ .search{
+  float: right;
+  width: 170px;
+  height: 30px;
+  border: 1px solid rgb(202, 196, 196);
+  background-color: rgb(240, 232, 232);
+  margin-right: 200px;
+  margin-top: 35px;
+}
+.search p{
+ margin-top: 6px;
+ margin-left: 5px;
+  letter-spacing: 1px;
+  font-size: 15px;
+  
+}
+ .search span{
+  margin-left: 70px;
+ }
+ .fonts{
+  float: right;
+  opacity: 45%;
+  font-size: 25px;
+  letter-spacing: 8px;
+  margin-right: -320px;
+  margin-top: 35px;
+ }
+ .black{
+  height: 45px;
+  background-color: black;
+  padding-top: -10px;
+  margin-top: -14px;
+  
+ }
+ .black p{
+   color:white;
+   text-align: center;
+   padding-top: 12px;
+   font-size: 15px;
+   font-family: sans-serif;
+ }
+ .coverphoto{
+  margin-bottom: 250px;
+ }
+ .coverphoto img{
+  width: 100%;
+  height: 500px;
+ }
+ .coverphoto h1{
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: -250px;
+  margin-left: 50px;
+  font-weight: 20px;
+ }
+ .coverphoto p{
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 50px;
+ font-size: 20px;
+ width: 350px;
+ }
+ .shop{
+  width: 160px;
+  height: 45px;
+  margin-left: 52px;
+  background-color: rgb(193, 213, 213);
+  position: absolute;
+  
+  
+}
+.shop p{
+  margin-top: 8px;
+  margin-left: 14px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.shop a{
+  color: rgb(8, 2, 2);
+  text-decoration: none;
+}
+.shop span{
+  margin-left: 10px;
+}
+ 
+  .post{
+    margin-left: 450px;
+    color: black;
+    font-size: 30px;
+    margin-top: -30px;
+  }
+    
+  .articles{
+    margin-left: 150px;
+    margin-bottom: 50px;
+  }
+  .article{
+    width: 20%;
+    float: left;
+    margin-right: 40px;
+    margin-top: 20px;
+    border: 1px solid rgb(234, 230, 230);
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+  .article h2{
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 65px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 23px;
+    color: black;
+  }
+  .article p{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    margin-top: 13px;
+    width: 85%;
+    text-align: center;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+  }
+  .article img{
+    width: 100%;
+   
+    
+  }
+  .read{ 
+    background-color:white;
+    padding-left: -40px;
+    padding-right: 30px;
+    width: 120px;
+    height: 20px;
+    padding-bottom: 20px;
+    float: left;
+    padding-top: 0px;
+    margin-left: 80px;
+    margin-top: 20px;
+    
+    
+  }
+  .read a{
+   color: rgb(8, 7, 7);
+   width: 30px;
+   font-size: 12px;
+   letter-spacing: 2px;
+     
+  }
